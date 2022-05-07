@@ -1,0 +1,130 @@
+
+.cuadrado {
+	width: 31%;
+    height: 215px;
+	background: #7F8C8D;
+	position: fixed;
+	border: 2px solid black;
+	left: 560px ;
+	top: 300px;
+
+
+
+}
+  
+ .rectangulo {
+ 	width: 30%;
+	height: 215px;
+	background: #7F8C8D;
+	border: 2px solid black;
+	position: fixed;
+	left: 25px;
+	top: 300px;
+
+
+
+ }
+
+.jeje {
+	width: 30%;
+	height: 215px;
+	background: #7F8C8D;
+	border: 2px solid black;
+	position: fixed;
+	left: 1095px;
+	top: 300px;
+
+
+}
+.rec {
+	width: 13%;
+	height: 49px;
+	background: #CB4335 ;
+	border: 2px solid black;
+	position: fixed;
+	left: 848px;
+	top: 299px;
+
+
+}
+.tan {
+	width: 13%;
+	height: 49px;
+	background: #F08080;
+	border: 2px solid black;
+	position: fixed;
+	left: 297px;
+	top: 299px;
+
+}
+.gulo {
+	width: 13%;
+	height: 49px;
+	background: #E5E27E;
+	border: 2px solid black;
+	position: fixed;
+	left: 1368px;
+	top: 299px;
+}
+p.mas-grande {
+	font-size: 250%;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle;
+	padding-top: 65px;
+	font-family:  bolder;
+}
+.chi {
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle;
+	color: white;
+	position: absolute;
+    top: 25%;
+    left: 40%;
+
+
+}
+.tex1{
+	font-size: 135%;
+	position: absolute;
+	top:17%;
+	left: 5%;
+}
+.ken{
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle;
+	position: absolute;
+    top: 20%;
+    left: 35%;
+
+}
+.su {
+	font-size: 150%;
+	text-align: center;
+	font-weight: bold;
+	vertical-align: middle;
+	position: absolute;
+    top: 20%;
+    left: 38%;
+}
+.tex2 {
+	font-size: 135%;
+	position: absolute;
+	top:17%;
+	left: 5%;
+
+}
+.tex3 {
+	font-size: 135%;
+	position: absolute;
+	top:17%;
+	left: 5%;
+}
+
+
+
+
